@@ -1,4 +1,4 @@
-## Welcome to xSistted's Hub.💌
+# Welcome to xSistted's Hub.💌
 
 I'm just a trainee programmer so I'm apologized for my false.
 
@@ -6,7 +6,8 @@ You can enjoy my memory about programming on this hub.
 
 ---
 
-📖 I'm studying in the Faculty of Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+📖 I'm studying in the Faculty of Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.  
+
 🛜 I'm a member of the Network & Cloud Laboratory of CE-KMITL.
 
 <!--
