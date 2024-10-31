@@ -1,6 +1,6 @@
 # Welcome to xSistted's Hub.💌
 
-I'm just a trainee programmer so I'm apologized for my mistake.
+I'm a trainee programmer so I'm apologized for my mistake.
 
 You can survey my memory about programming on this hub. 
 
