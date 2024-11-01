@@ -1,6 +1,6 @@
 # Welcome to xSistted's Hub.💌
 
-Hello traveler, My name is Tun also known as xSistted.
+Hello traveler, my name is Tun also known as xSistted.
 
 I'm a trainee programmer so I'm apologize for my mistake.
 
