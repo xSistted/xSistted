@@ -1,10 +1,8 @@
 # Welcome to My Hub.💌
 
-Hello traveler, my name is Tun.
+Hello everyone, this is the hub that keep my memory about programming.
 
-I'm a trainee programmer so I'm apologize for my mistake.
-
-You can survey my memory about programming on this hub. 
+I'm currrently learning about Web-Development, Network and Cloud Computing.
 
 ---
 
